@@ -91,4 +91,7 @@ h3 > span{
         float: right;
         padding-right: 2em;
     }
+    h3 > span{
+        font-size: small;
+    }
 }
