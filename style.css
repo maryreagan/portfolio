@@ -94,4 +94,7 @@ h3 > span{
     h3 > span{
         font-size: 12px;
     }
+    h3{
+        font-size: 24px;
+    }
 }
